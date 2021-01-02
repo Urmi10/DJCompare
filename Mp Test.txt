@@ -1,0 +1,247 @@
+The processor status word of 8085 microprocessor has five flags namely:
+1 point
+S, Z, AC, P, CY
+S, OV, AC, P, CY
+S, Z, OV, P, CY
+S, Z, AC, P, OV
+
+
+
+A procedure can be called using the instruction
+1 point
+JMP
+CALL
+RET
+INT n
+
+
+In a segment if offset is a 16-bit number, then the maximum possible locations are_____.
+1 point
+1 KB
+64 bytes
+64 KB
+1 MB
+
+
+In an intel 8085A microprocessor, why is READY signal used?
+1 point
+To indicate to user that the microprocessor is working and is ready for use.
+To provide proper WAIT states when the microprocessor is communicating with a slow peripheral device.
+To slow down a fast peripheral device so as to communicate at the microprocessor’s device.
+None of the above.
+
+
+If MN/MX is low the 8086 operates in __________ mode
+1 point
+Maximum
+Minimum
+Both (A) and (B)
+None
+
+
+The number of address and data lines of 8086
+1 point
+8 and 8
+16 and 16
+20 and 16
+16 and 20
+
+
+
+DAD is a/an
+1 point
+data transfer instruction
+arithmetic instruction
+logical instruction
+I/O and stack pointer instruction
+
+
+What is the addressing mode of the instruction MOV AX,[BX]
+1 point
+Register Direct
+Register Indirect
+Immediate
+Implicit
+
+
+The BIU contains FIFO register of size 6 bytes called_________.
+1 point
+segment
+stack
+queue
+register
+
+
+If segment address = 1005 H, offset address = 5555 H, then the physical address is­­­­­­­­­­­­­_____.
+1 point
+655A H
+155A5 H
+4550 H
+56555
+
+
+If_________ flag is set; the processor enters the single step execution mode.
+1 point
+Direction
+Trap
+Interrupt
+Zero
+
+
+The word size of the 8085 microprocessor is
+1 point
+20 bits
+16 bits
+8 bits
+4 bits
+
+
+The 8086 fetch instruction one after another from ______ of memory.
+1 point
+Data segment
+Code segment
+Extra segment
+Stack segment
+
+
+STA 9000H is an instruction of
+1 point
+one byte
+two bytes
+three bytes
+four bytes
+
+
+What is /are the improvement is in the architecture of 8086 over 8085 architecture
+1 point
+A 16-bit ALU, a set of 16-bit registers
+Segmented memory addressing
+Fetched instruction queue for overlapped fetching and execution
+All of the mentioned
+
+
+The example of the string instruction is
+1 point
+MOV DX,[SI]
+XLAT
+MOVSB
+AAD
+
+
+Consider the following statements: In 8085 microprocessor, data-bus and address bus are multiplexed in order to I)Increase the speed of microprocessor. II)Reduce the number of pins. III)Connect more peripheral chips. Which of these statements is/are correct?
+1 point
+(I) only
+(II) only
+(II) & (III)
+(I), (II) & (III)
+
+
+What is SIM?
+1 point
+Select interrupt mask.
+Sorting interrupt mask.
+Set interrupt mask.
+None of these.
+
+
+
+
+A Microprocessor with 12 address lines will be able to access
+1 point
+10 KB
+4 KB
+8 KB
+1 KB
+
+
+Direction flag is used with ____.
+1 point
+String instructions
+Stack Instructions
+Arithmetic Instructions
+Branch Instructions
+
+
+Instruction Pointer (IP) contains offset address of ________ segment.
+1 point
+Data segment
+Code segment
+Stack segment
+Extra segment
+
+
+Which of the following statements for intel 8085 is correct?
+1 point
+Program Counter (PC) specifies the address of the instruction last executed
+PC specifies the address of the instruction being executed
+PC specifies the address of the instruction to be executed
+PC specifies the number of instructions executed so far
+
+
+A microprocessor is ALU
+1 point
+and control unit on a single chip.
+and memory on a single chip.
+register unit and I/O device on a single chip.
+register unit and control unit on a single chip.
+
+
+The address bus of a microprocessor is
+1 point
+unidirectional
+bidirectional
+unidirectional as well as bidirectional
+none of these
+
+
+2's compliment instruction is
+1 point
+NEG
+CMP
+NOT
+CMC
+
+
+In 8085 microprocessor, the RST6 instruction transfer program execution to following location
+1 point
+0030H
+0024H
+0060H
+0048H
+
+
+MOV A,C is executed in
+1 point
+one machine cycle
+two machine cycle
+three machine cycle
+four machine cycle
+
+
+In 8085 name/names of the 16 bit registers is/are
+1 point
+Stack Pointer
+Program Counter
+Both A and B
+None of these
+
+
+When referring to instruction words, a mnemonic is
+1 point
+a short abbreviation for the operand address.
+a short abbreviation for the operation to be performed.
+a short abbreviation for the data word stored at the operand address.
+shorthand for machine language.
+
+
+If a Microprocessor is capable of addressing 1 Mega bytes of memory, its address bus width is
+1 point
+16 bits
+20 bits
+8 bits
+none of these
+
+Page 2 of 2
+Never submit passwords through Google Forms.
+This form was created inside of Maharshi Dayanand University Rohtak. Report Abuse
+Google Forms

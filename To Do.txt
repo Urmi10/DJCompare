@@ -1,0 +1,21 @@
+Linkedin Post
+
+
+
+Hackerrank : Questions ( Arrays )
+factorial of a number, if a number is prime, print fibonacci series, Nth prime number, Traingle pattern
+*
+**
+***
+****
+*****  -> this is for n = 5
+
+
+
+Programming language - JAVA  JavaScript, HTML/CSS
+Data Structures & Algorithms
+Operating Systems
+Databases - SQL, MongoDB
+Networking and Security : data encryption algorithms
+Testing and Software Development Life Cycle (SDLC)
+
